@@ -1,0 +1,47 @@
+,precision,recall,f1-score,support
+Speed limit 20,1.0,0.9677,0.9836,31.0
+Speed limit 30,0.8667,0.8667,0.8667,45.0
+Speed limit 50,0.9091,0.8889,0.8989,45.0
+Speed limit 60,0.9512,0.8667,0.907,45.0
+Speed limit 70,0.8824,1.0,0.9375,45.0
+Speed limit 80,0.8837,0.8444,0.8636,45.0
+End speed limit 80,1.0,1.0,1.0,45.0
+Speed limit 100,0.8913,0.9111,0.9011,45.0
+Speed limit 120,0.8627,0.9778,0.9167,45.0
+No passing,1.0,0.9333,0.9655,45.0
+No passing >3.5t,0.9574,1.0,0.9783,45.0
+Right-of-way,1.0,1.0,1.0,45.0
+Priority road,0.9783,1.0,0.989,45.0
+Yield,0.9783,1.0,0.989,45.0
+Stop,1.0,1.0,1.0,45.0
+No vehicles,1.0,1.0,1.0,45.0
+No vehicles >3.5t,1.0,1.0,1.0,45.0
+No entry,1.0,1.0,1.0,45.0
+General caution,1.0,0.9556,0.9773,45.0
+Curve left,1.0,1.0,1.0,32.0
+Curve right,0.9574,1.0,0.9783,45.0
+Double curve,0.9783,1.0,0.989,45.0
+Bumpy road,0.9574,1.0,0.9783,45.0
+Slippery road,1.0,1.0,1.0,45.0
+Road narrows right,1.0,0.9756,0.9877,41.0
+Road work,1.0,0.9778,0.9888,45.0
+Traffic signals,0.9348,0.9556,0.9451,45.0
+Pedestrians,1.0,1.0,1.0,36.0
+Children crossing,1.0,0.9778,0.9888,45.0
+Bicycles crossing,0.9762,1.0,0.988,41.0
+Ice/snow,1.0,1.0,1.0,45.0
+Wild animals,1.0,0.9778,0.9888,45.0
+End restrictions,1.0,1.0,1.0,36.0
+Turn right ahead,1.0,0.9556,0.9773,45.0
+Turn left ahead,1.0,0.9778,0.9888,45.0
+Go ahead,1.0,0.9778,0.9888,45.0
+Go ahead or right,0.9574,1.0,0.9783,45.0
+Go ahead or left,1.0,1.0,1.0,31.0
+Keep right,1.0,0.9333,0.9655,45.0
+Keep left,1.0,1.0,1.0,45.0
+Roundabout,0.9767,0.9333,0.9545,45.0
+End no passing,1.0,1.0,1.0,36.0
+End no passing >3.5t,1.0,1.0,1.0,36.0
+accuracy,0.9724,0.9724,0.9724,0.9724
+macro avg,0.9744,0.9734,0.9735,1850.0
+weighted avg,0.9733,0.9724,0.9724,1850.0

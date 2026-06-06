@@ -1,0 +1,44 @@
+Class_ID,Class_Name,Accuracy
+0,Speed limit 20,0.9677
+1,Speed limit 30,0.8667
+2,Speed limit 50,0.8889
+3,Speed limit 60,0.8667
+4,Speed limit 70,1.0
+5,Speed limit 80,0.8444
+6,End speed limit 80,1.0
+7,Speed limit 100,0.9111
+8,Speed limit 120,0.9778
+9,No passing,0.9333
+10,No passing >3.5t,1.0
+11,Right-of-way,1.0
+12,Priority road,1.0
+13,Yield,1.0
+14,Stop,1.0
+15,No vehicles,1.0
+16,No vehicles >3.5t,1.0
+17,No entry,1.0
+18,General caution,0.9556
+19,Curve left,1.0
+20,Curve right,1.0
+21,Double curve,1.0
+22,Bumpy road,1.0
+23,Slippery road,1.0
+24,Road narrows right,0.9756
+25,Road work,0.9778
+26,Traffic signals,0.9556
+27,Pedestrians,1.0
+28,Children crossing,0.9778
+29,Bicycles crossing,1.0
+30,Ice/snow,1.0
+31,Wild animals,0.9778
+32,End restrictions,1.0
+33,Turn right ahead,0.9556
+34,Turn left ahead,0.9778
+35,Go ahead,0.9778
+36,Go ahead or right,1.0
+37,Go ahead or left,1.0
+38,Keep right,0.9333
+39,Keep left,1.0
+40,Roundabout,0.9333
+41,End no passing,1.0
+42,End no passing >3.5t,1.0
